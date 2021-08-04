@@ -1,4 +1,4 @@
-# MHWD Setup for NVIDIA AUDIO
+# MHWD Setup for NVIDIA + AMD
 
 ## Setup
 ### 1. Install Manjaro with proprietary drivers
